@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PageTurner – Online Book Store
 
 Responsive book store built with **Node.js + Express + MySQL**.
@@ -36,3 +37,7 @@ public/          Front end (HTML, CSS, JS)
 - GET /api/books?search=&category=, GET /api/categories
 
 Passwords are hashed with bcrypt; sessions use express-session.
+=======
+# bookstore_off
+this is assignment
+>>>>>>> f16fe5f7a6afd3b96eed4c469774d7846647931e
